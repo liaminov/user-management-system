@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👤 Advanced User Management System
 
 A full-featured **User Management System** built with **Python · Streamlit · MongoDB**.
@@ -137,3 +138,6 @@ feature/validation← input validation
 
 ## 📄 License
 MIT License — see `LICENSE` for details.
+=======
+# user-management-system
+>>>>>>> b28e3025bdb74c2c10ea2cfb623dc9b17075d86b
