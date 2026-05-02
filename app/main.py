@@ -463,8 +463,10 @@ with right:
 # ──────────────────────────────────────────────
 st.markdown("---")
 st.markdown(
-    "<p style='text-align:center;color:#334155;font-size:0.8rem;'>"
-    "Advanced User Management System · Python + Streamlit + MongoDB · CS Project 2025"
+    "<p style='text-align:center;color:white;font-size:0.9rem;'>"
+    "Advanced User Management System -  " \
+    " phd student: Liamine Bekhouche , supervisor: Dr Salim Zerougui." \
+    " Larbi Ben Mhidi University 2025/2026 "
     "</p>",
     unsafe_allow_html=True
 )
